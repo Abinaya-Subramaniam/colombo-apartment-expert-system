@@ -72,6 +72,3 @@ streamlit run st.py
 ```
 
 The application will open in your default browser at `http://localhost:8501`
-
-
-## 🏗️ System Architecture
